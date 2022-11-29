@@ -15,6 +15,10 @@ This organization is used to manage the code and configuration of joeyac's home 
 
 The naming of the organization and its repository are inspired by the greek primordial deities.
 
-- organization named `Chaos`
-- outside network system named `Ouranos`
-- inside network system named 
+- organization of home server named after `Chaos`
+- outside network system named after `Ouranos`
+- inside network system named after `Ourea`
+- monitor system named after `Chronus`
+- storage system named after `Terra`
+- service collection system named after `Pontus`
+- security system named after `Aether`
